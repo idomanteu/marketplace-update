@@ -83,6 +83,10 @@ Example:
    python update-sales.py
    ```
 
+## Google Sheets Output
+
+![image](https://github.com/user-attachments/assets/a5397050-98fc-4c91-a1a6-1818648eb1a0)
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -91,3 +95,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Original script by Clone_Two (@clone_two) on Discord
 - Modified slightly by me
+
