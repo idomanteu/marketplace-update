@@ -23,8 +23,9 @@ A Python script that updates sales data from a marketplace into a Google Sheets 
 
 ### Note on Autofilling
 
-After copying the headers into Google Sheets, you can set up formulas for the corresponding categories:
+After copying the headers into Google Sheets, you can set up formulas for the corresponding categories
 
+Example:
 - For profit: `=H2-F2`
 - To convert USD price to keys, create a new column using the current key-USD price ratio
 
