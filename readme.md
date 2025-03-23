@@ -9,14 +9,14 @@ A Python script that updates sales data from a marketplace into a Google Sheets 
 ## Requirements
 
 - A Google Sheets service account with access to the Google Sheets API
-- A Google Sheet named **Master Spreadsheet** containing:
+- A Google Sheet named `Master Spreadsheet` containing:
 
-  - A worksheet named **TF2** (Main Sheet) with the following columns:
+  - A worksheet named `TF2` with the following columns:
 
     | Type | Class | Quality | Item | Date Purchased | Paid (USD) | Date Sold | Sold (USD) | TTS (Days) | Profit (USD) | ROIC | ID  |
     | ---- | ----- | ------- | ---- | -------------- | ---------- | --------- | ---------- | ---------- | ------------ | ---- | --- |
 
-  - A worksheet named **Unrecorded Sales** with the following columns:
+  - A worksheet named `Unrecorded Sales` with the following columns:
 
     | Type | Class | Quality | Item | Date Sold | Price Sold | ID  |
     | ---- | ----- | ------- | ---- | --------- | ---------- | --- |
