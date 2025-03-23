@@ -1,5 +1,3 @@
-I'll enhance the header and make it more visually appealing by adding badges for marketplace.tf and Google Sheets:
-
 # Update Sales Script
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
